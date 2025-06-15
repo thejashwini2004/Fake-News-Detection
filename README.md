@@ -70,5 +70,14 @@ Prediction:
 
 ---
 
+## Dataset
+
+This project uses the Fake and Real News Dataset from Kaggle.  
+You can download it here: [Fake & Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+
+After downloading, place `Fake.csv` and `True.csv` in the same folder as the notebook.
+
+---
+
 ## 👩‍💻 Author
 Thejashwini.R
