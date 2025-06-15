@@ -1,0 +1,13 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+matplotlib==3.8.4
+jupyter==1.0.0
+
+✅ How to use it:
+Create a file named requirements.txt in your project folder.
+
+Paste the above lines into it.
+
+Others (or you, on a new system) can install the dependencies with below command :
+pip install -r requirements.txt
